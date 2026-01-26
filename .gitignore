@@ -17,5 +17,6 @@ build/
 dist/
 log/
 push_to_gitlab.sh
+push_to_github.sh
 push_to_oss.sh
 *.zip
